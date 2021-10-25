@@ -1,0 +1,47 @@
+---
+title: "Let me introduce myself"
+author: "Oğuzhan Koç"
+date: "25/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About Myself
+
+I study Mathematical Engineering in Istanbul Technical University.
+
+### My Grade
+3
+
+### Courses I liked the most:
+- Introduction to Programming Language	
+- Introduction to Mathematics Engineering and Ethics	
+- Linear Algebra I
+- Data Processing Algorithms
+- Web Programming
+
+### Subjects I liked the most:
+- Web Design with Bootstrap
+- Josephus Problem
+
+### Equation I liked the most:
+
+$a^{2} + b^{2} = c^{2} $
+
+### A book I liked:
+![](https://kahramangiller.com/wp-content/uploads/2016/01/dr-moreau-kapak.jpg)
+[H.G. Wells - Doktor Moreau'nun Adası](https://www.kitapyurdu.com/kitap/dr-moreaunun-adasi/43891.html)
+
+### City I live in:
+![Istanbul-Bayrampasa](https://gezilmesigerekenyerler.com/wp-content/uploads/2017/12/Bayrampasa-Sehir-Parki-AdaPark-01.jpg)
+
+### Emojis I use frequently:
+
+- 🙀
+- 👍
+- 😉
+
+
